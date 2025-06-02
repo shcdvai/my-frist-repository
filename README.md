@@ -20,9 +20,6 @@ The header is misplaced, and the "Contact Us" button does not appear.
 - Device: Windows 10 laptop  
 - Screen Resolution: 1366x768
 
-**Screenshot:**  
-(If available, please attach an image showing the problem)
-
 ---
 
 **Additional Info:**  
